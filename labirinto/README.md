@@ -1,6 +1,6 @@
-- Fiz o codigo todo baseado em seu vídeo *https://www.youtube.com/watch?v=ReWEcyEyw3s&t=1773s*;
+- Fiz o codigo todo baseado no video *https://www.youtube.com/watch?v=ReWEcyEyw3s&t=1773s*;
 - Tive que estudar um pouco de C++ para enteder a lógica do programa;
-- Tive muita, mas muita dificuldade;
+- Tive muita, mais muita dificuldade;
 - Passei ao menos 4 dias tentando fazer e compreender tudo o que aconteceu no codígo
 - Não conseguir incluir as bibliotecas ed_base.h e ed_math.h
 - Tive dificuldade de entender muitas coisas novas em C++ que facilita, mas ao mesmo tempo dificulta pela a falta de expêriencia.
