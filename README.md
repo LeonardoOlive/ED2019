@@ -1,4 +1,1 @@
--Fiz a maioria do codigo com as dicas que o professor deu em sala
--De primeiro o codigo não estava funcionando corretamente, eu nao conseguir enxergar o problema e fui atras de ajuda
--Tive dificuldade na impressão do colchetes e fui pedir ajuda na monitoria para entender como iria funcionar;
--A parte mais dificil foi a impressão correta dos colchetes e as passada de espada para o valor inicial quando chegasse ao ultimo valor;
+Atividades da Disciplina Estrutura de Dados
