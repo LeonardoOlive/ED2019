@@ -5,7 +5,7 @@
 // t = tamanho
 // v = vetor
 
-// fun??o para imprimir o vetor sabendo quespm esta morto ou ? o escolhido
+
 void Vet(int v[], int n, int esp){
     int i;
     printf("[");
