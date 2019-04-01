@@ -23,25 +23,25 @@ Na lógica, tenho uma dificuldade tremenda em conseguir pensar de forma ligeira 
 
 
 02 - Queimadas
-*O que você fez
+* O que você fez
 
 Fiz toda a atividade
 
-*Com quem e como você fez
+* Com quem e como você fez
 
 Estudei o codigo mostrado em sala e vi e rêvi varias vezes o video no youtube.
 Pedi ajuda na monitoria e perguntei algumas coisas a uma professora para ela me ajudar a entender a lógica
 PS ~> Tinha feito já porem tinha me esquecido de Upar no GitHub
 
-*O que aprendeu e sabe fazer
+* O que aprendeu e sabe fazer
 
 Aprendir a usar a função rand gerando numeros aleatorios
 
-*O que tem dificuldade ainda
+* O que tem dificuldade ainda
 
 Durante  o video e o codigo exposto pelo professor ele mostrou left up rigth e down,não compreendi muito bem pois não tinha usado nada disso antes de queimadas.
 
-*Quanto tempo levou pra fazer a atividade
+* Quanto tempo levou pra fazer a atividade
 
 Cerca de 8 horas divididas em 3 dias
 
