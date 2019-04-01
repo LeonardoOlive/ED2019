@@ -1,5 +1,1 @@
-- Fiz o codigo baseado nas informações que o senhor deu
-- Não conseguir pensar em uma logica mais descente para resolver o problema
-- Tive alguns problemas em relação a impressão dos "[" - "]", porem fui atrás de ajuda na monitoria
-- Tive dificuldade também quando a espada tinha que voltar a primeira posição
-- No meu ponto de vista foi comum o nível de dificuldade
+
