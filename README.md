@@ -45,16 +45,27 @@ Durante  o video e o codigo exposto pelo professor ele mostrou left up rigth e d
 
 Cerca de 8 horas divididas em 3 dias
 
-03 - nome do trabalho
+03 - Labirinto
 
-*O que você fez
-fiz bla bla bla
+* O que você fez
 
-*Com quem e como você fez
-fiz bla bla bla
+Fiz toda a atividade 
 
-*O que aprendeu e sabe fazer
+* Com quem e como você fez
+ 
+ Por mais que a queimada fosse um bom começo para o codigo ainda tive dificuldades em fazer o Labirinto, mas acho que essa dificuldade foi por que fiz em C++ devido querer aprender a nova linguagem e tambem ser ajudado pelo o video
+ Pedi ajuda a alguns colegas de classe e na monitoria
+ PS ~> O codigo não ficou completo devido a falta de duas libs
 
-*O que tem dificuldade ainda
+* O que aprendeu e sabe fazer
 
-*Quanto tempo levou pra fazer a atividade
+Comecei a programar em C++
+
+* O que tem dificuldade ainda
+
+Como eu tinha feito queimada antes, a logica nao ficou tão incompreensível.
+Função recursiva ainda é um problema
+
+* Quanto tempo levou pra fazer a atividade
+
+4 dias para estudar na linguagem C++ tudo o que a video aula explica mais 1 para implementar.
