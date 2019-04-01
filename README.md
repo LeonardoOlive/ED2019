@@ -1,7 +1,4 @@
-Exemplo de repositório para Disciplina
-Use uma pasta para colocar os códigos de cada trabalho conforme o modelo do nome de cada atividade. O relatório de todas devem vir aqui seguindo o seguinte modelo.
-
-Esse arquivo Readme.md deve conter todas os relatórios de atividade.
+~NÃO CONSEGUIR EXPÔR MINHA FOTO~
 
 01 - Princesa
 * O que você fez
@@ -16,8 +13,8 @@ Aprendi um pouco mais sobre chamada de funções
 * O que tem dificuldade ainda
 Na lógica, tenho uma dificuldade tremenda em conseguir pensar de forma ligeira pra solucionar o problema
 
-*Quanto tempo levou pra fazer a atividade
-  Demorei cerca de 2 dias, 3 horas em cada
+* Quanto tempo levou pra fazer a atividade
+ Demorei cerca de 2 dias, 3 horas em cada
 
 
 02 - Queimadas
