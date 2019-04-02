@@ -69,3 +69,4 @@ Função recursiva ainda é um problema
 * Quanto tempo levou pra fazer a atividade
 
 4 dias para estudar na linguagem C++ tudo o que a video aula explica mais 1 para implementar.
+
