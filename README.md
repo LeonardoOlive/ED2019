@@ -49,7 +49,7 @@ Cerca de 8 horas divididas em 3 dias
 
 * O que você fez
 
-Fiz toda a atividade 
+Tentei fazer toda atividade
 
 * Com quem e como você fez
  
