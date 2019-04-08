@@ -12,7 +12,7 @@ void SWAP(int *x, int *y){
     int aux = tamanho;
     for(int v1 = 0; v1 < tamanho; tamanho--){//depois que pecorre pela primeira vez e acha o maior, decrementa o tamanho do vetor, assim ele nao perde tempo pecorrendo um espaço desnecessario novamente;
         for(int v2 = 0; v2 < (tamanho - 1); v2++){
-            xs_partition(v2, v2 + 1);// partição do começo e partição do fim
+            xs_partition(v2, v2 + 1);// partição do valor 1 e partição do valor2
            
             //mostrar os elementos que ja estão trocados corretamente
             if(vetor[v2] < vetor[v2 + 1]){
