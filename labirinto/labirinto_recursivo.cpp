@@ -1,5 +1,3 @@
-#include "libs/ed_base.h"
-#include "libs/ed_mat.h"
 
 #include <fstream>
 #include <iostream>
