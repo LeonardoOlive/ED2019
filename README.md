@@ -27,13 +27,13 @@ Na lógica, tenho uma dificuldade tremenda em conseguir pensar de forma ligeira 
 
 Fiz toda a atividade
 
-* Com quem e como você fez
+*  Com quem e como você fez
 
 Estudei o codigo mostrado em sala e vi e rêvi varias vezes o video no youtube.
 Pedi ajuda na monitoria e perguntei algumas coisas a uma amiga para ela me ajudar a entender a lógica
 PS ~> Tinha feito já porem tinha me esquecido de Upar no GitHub
 
-* O que aprendeu e sabe fazer
+*  O que aprendeu e sabe fazer
 
 Aprendir a usar a função rand gerando numeros aleatorios
 
@@ -71,25 +71,25 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 
 O que você fez
 
-*Tentei fazer toda a atividade
+* Tentei fazer toda a atividade
 
-*Com quem e como você fez
+Com quem e como você fez
 
-*Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
+* Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
 
 
-*O que aprendeu e sabe fazer
+O que aprendeu e sabe fazer
 
-*Aprendi sobre lista duplamente encadeada, mas nao muito.
-*Aprendi pouco de C++
+* Aprendi sobre lista duplamente encadeada, mas nao muito.
+* Aprendi pouco de C++
 
 O que tem dificuldade ainda
 
-*C++
-*Lista duplamente encadeada 
-*ponteiros
+* C++
+* Lista duplamente encadeada 
+* ponteiros
 
 Quanto tempo levou pra fazer a atividade
 
-*+/- 6h, dividida em 3 dias
+* +/- 6h, dividida em 3 dias
 
