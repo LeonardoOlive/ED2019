@@ -21,7 +21,7 @@ void aleatoriar(Pos vet[], int size){
         vet[posicao] = aux;
     }
 }
-
+// ver se os valores passados por parametros sao semelhantes ou nao
 bool semelhantes(int nlin, int ncol, char matriz[nlin][ncol], char value, int lin, int col){
     int i;
     if((lin < 0) || (lin >= nlin) || (col < 0) || (col >= ncol)){
@@ -41,7 +41,7 @@ void exibir(int nlin, int ncol, char matriz[nlin][ncol]){
     }
 }
 
-bool procurar_saida(int lin, int col, int nlin, int ncol, char matriz[nlin][ncol], char mvisited[lin][col],int lsaida, int csaida){
+bool researchingOut(int lin, int col, int nlin, int ncol, char matriz[nlin][ncol], char mvisited[lin][col],int lsaida, int csaida){
     int i = 0;
 
     if((lin >= nlin) || (lin < 0) || (col >= ncol) || (col < 0))
@@ -53,17 +53,17 @@ bool procurar_saida(int lin, int col, int nlin, int ncol, char matriz[nlin][ncol
     
     if(lin == lsaida && col == csaida) // objetivo: fazer com que a coordenada(lin, col) seja igual a coordenada da saida
         return true;
-
-    if(procurar_saida(lin, col - 1, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
+    //dale recursão
+    if(researchingOut(lin, col - 1, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
         return true;
 
-    if(procurar_saida(lin - 1, col, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
+    if(researchingOut(lin - 1, col, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
         return true;
 
-    if(procurar_saida(lin + 1, col, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
+    if(researchingOut(lin + 1, col, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
         return true;
 
-    if(procurar_saida(lin, col + 1, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
+    if(researchingOut(lin, col + 1, nlin, ncol, matriz, mvisited, lsaida, csaida) == true)
         return true;
 
     matriz[lin][col] = ' ';// objetivo falhou
@@ -128,11 +128,11 @@ int main(int argc, char * argv[]){
 	printf("coordenadas de fim: \n");
 	scanf("%d %d", &l_end, &c_end);
 
-	while(procurar_saida(l_ini, c_ini, nl, nc, matriz, matriz_visitados, l_end, c_end)){
+	while(researchingOut(l_ini, c_ini, nl, nc, matriz, matriz_visitados, l_end, c_end)){
 		printf("novas coordenadas de fim: \n");
 		scanf("%d %d", &l_end, &c_end);
 	}
-	procurar_saida(l_ini, c_ini, nl, nc, matriz, matriz_visitados, l_end, c_end);
+	researchingOut(l_ini, c_ini, nl, nc, matriz, matriz_visitados, l_end, c_end);
 	exibir(nl, nc, matriz);
 	
 	return 0;
