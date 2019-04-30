@@ -66,23 +66,28 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 
 4 dias para estudar tudo o que a video aula explica e tentar fazer do metodo que eu compreendia mais 1 para implementar.
 
-*04 - Lista Duplamente encadeada(
+*04 - Lista Duplamente encadeada
+
 _O que você fez_
 
 Tentei fazer toda atividade
 
 _Com quem e como você fez_
+
 Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
 
 _O que aprendeu e sabe fazer_
+
 Aprendi sobre lista duplamente encadeada, mas nao muito.
 Aprendi pouco de C++
 
 _O que tem dificuldade ainda_
+
 C++
 Lista duplamente encadeada 
 ponteiros
 
 _Quanto tempo levou pra fazer a atividade_
+
 +/- 6h, dividida em 3 dias
 
