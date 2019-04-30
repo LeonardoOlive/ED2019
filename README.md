@@ -93,9 +93,9 @@ Quanto tempo levou pra fazer a atividade
 
 * +/- 6h, dividida em 3 dias
 
-*05 - Ordenações
+*05 - Ordenações*
 
-*O que você fez*
+O que você fez
 
 * Fiz toda a atividade
 
@@ -104,13 +104,13 @@ Com quem e como você fez
 * Fiz sozinho
 
 
-*que aprendeu e sabe fazer*
+que aprendeu e sabe fazer
 
 * Aprendi um pouco sobre a biblioteca "xvet.h" e "xpaint.h"
 * Aprendi mais sobre formas de ordenar um vetor, porem nao consigo imaginar diferentes formas
 
 
-*Quanto tempo levou pra fazer a atividade*
+Quanto tempo levou pra fazer a atividade
 
 * 1h30m
 
