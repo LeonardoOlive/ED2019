@@ -1,6 +1,6 @@
 ~NÃO CONSEGUIR EXPÔR MINHA FOTO~
 
-##01 - Princesa
+## 01 - Princesa
 * O que você fez
 
 Montei um cenário onde haveria uma quantidade de pessoas e a brincadeira começaria quando a princesa escolhesse aleatoriamente um para matar o proximo ate que so sobrasse o vencedor
@@ -22,7 +22,7 @@ Na lógica, tenho uma dificuldade tremenda em conseguir pensar de forma ligeira 
  Demorei cerca de 2 dias, 3 horas em cada
 
 
-*02 - Queimadas*
+## 02 - Queimadas
 * O que você fez
 
 Fiz toda a atividade
@@ -45,7 +45,7 @@ Durante  o video e o codigo exposto pelo professor ele mostrou left up rigth e d
 
 Cerca de 8 horas divididas em 3 dias
 
-*03 - Labirinto*
+## 03 - Labirinto
 
 * O que você fez
 
@@ -67,50 +67,50 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 4 dias para estudar tudo o que a video aula explica e tentar fazer do metodo que eu compreendia mais 1 para implementar.
 
 
-*04 - Lista duplamente encadeada*
+## 04 - Lista duplamente encadeada
 
-O que você fez
+* O que você fez<p>
 
 * Tentei fazer toda a atividade
 
-Com quem e como você fez
+* Com quem e como você fez<p>
 
 * Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
 
 
-O que aprendeu e sabe fazer
+* O que aprendeu e sabe fazer<p>
 
 * Aprendi sobre lista duplamente encadeada, mas nao muito.
 * Aprendi pouco de C++
 
-O que tem dificuldade ainda
+* O que tem dificuldade ainda<p>
 
 * C++
 * Lista duplamente encadeada 
 * ponteiros
 
-Quanto tempo levou pra fazer a atividade
+* Quanto tempo levou pra fazer a atividade<p>
 
 * +/- 6h, dividida em 3 dias
 
-*05 - Ordenações*
+## 05 - Ordenações
 
-O que você fez
+* O que você fez<p>
 
 * Fiz toda a atividade
 
-Com quem e como você fez
+* Com quem e como você fez<p>
 
 * Fiz sozinho
 
 
-que aprendeu e sabe fazer
+* O que aprendeu e sabe fazer<p>
 
 * Aprendi um pouco sobre a biblioteca "xvet.h" e "xpaint.h"
 * Aprendi mais sobre formas de ordenar um vetor, porem nao consigo imaginar diferentes formas
 
 
-Quanto tempo levou pra fazer a atividade
+* Quanto tempo levou pra fazer a atividade<p>
 
 * 1h30m
 
