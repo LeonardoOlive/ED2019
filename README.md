@@ -67,9 +67,9 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 4 dias para estudar tudo o que a video aula explica e tentar fazer do metodo que eu compreendia mais 1 para implementar.
 
 
-**04 - Lista duplamente encadeada
+04 - Lista duplamente encadeada
 
-***O que você fez
+O que você fez
 
 *Tentei fazer toda a atividade
 
@@ -78,18 +78,18 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 *Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
 
 
-***O que aprendeu e sabe fazer
+*O que aprendeu e sabe fazer
 
 *Aprendi sobre lista duplamente encadeada, mas nao muito.
 *Aprendi pouco de C++
 
-***O que tem dificuldade ainda
+O que tem dificuldade ainda
 
 *C++
 *Lista duplamente encadeada 
 *ponteiros
 
-***Quanto tempo levou pra fazer a atividade
+Quanto tempo levou pra fazer a atividade
 
 *+/- 6h, dividida em 3 dias
 
