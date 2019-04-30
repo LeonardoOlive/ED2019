@@ -22,7 +22,7 @@ Na lógica, tenho uma dificuldade tremenda em conseguir pensar de forma ligeira 
  Demorei cerca de 2 dias, 3 horas em cada
 
 
-02 - Queimadas
+*02 - Queimadas*
 * O que você fez
 
 Fiz toda a atividade
@@ -45,7 +45,7 @@ Durante  o video e o codigo exposto pelo professor ele mostrou left up rigth e d
 
 Cerca de 8 horas divididas em 3 dias
 
-03 - Labirinto
+*03 - Labirinto*
 
 * O que você fez
 
@@ -67,7 +67,7 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 4 dias para estudar tudo o que a video aula explica e tentar fazer do metodo que eu compreendia mais 1 para implementar.
 
 
-04 - Lista duplamente encadeada
+*04 - Lista duplamente encadeada*
 
 O que você fez
 
