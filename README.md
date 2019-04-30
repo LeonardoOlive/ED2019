@@ -1,6 +1,6 @@
 ~NÃO CONSEGUIR EXPÔR MINHA FOTO~
 
-*01 - Princesa*
+##01 - Princesa
 * O que você fez
 
 Montei um cenário onde haveria uma quantidade de pessoas e a brincadeira começaria quando a princesa escolhesse aleatoriamente um para matar o proximo ate que so sobrasse o vencedor
