@@ -30,7 +30,7 @@ Fiz toda a atividade
 * Com quem e como você fez
 
 Estudei o codigo mostrado em sala e vi e rêvi varias vezes o video no youtube.
-Pedi ajuda na monitoria e perguntei algumas coisas a uma professora para ela me ajudar a entender a lógica
+Pedi ajuda na monitoria e perguntei algumas coisas a uma amiga para ela me ajudar a entender a lógica
 PS ~> Tinha feito já porem tinha me esquecido de Upar no GitHub
 
 * O que aprendeu e sabe fazer
@@ -52,21 +52,37 @@ Cerca de 8 horas divididas em 3 dias
 Tentei fazer toda atividade
 
 * Com quem e como você fez
- 
- Por mais que a queimada fosse um bom começo para o codigo ainda tive dificuldades em fazer o Labirinto, mas acho que essa dificuldade foi por que fiz em C++ devido querer aprender a nova linguagem e tambem ser ajudado pelo o video
- Pedi ajuda a alguns colegas de classe e na monitoria
- PS ~> O codigo não ficou completo devido a falta de duas libs
+ Fiz junto com um amigo, assistindo a video aula e tentando entender passo a passo do que era feito
 
 * O que aprendeu e sabe fazer
-
-Comecei a programar em C++
+aprendi recursão e sei fazer recursão(eu acho).
 
 * O que tem dificuldade ainda
-
+Em como implementar a logica
 Como eu tinha feito queimada antes, a logica nao ficou tão incompreensível.
-Função recursiva ainda é um problema
+Função recursiva ainda é um problema (no caso da afirmação de cima falhar em algum dia)
 
 * Quanto tempo levou pra fazer a atividade
 
-4 dias para estudar na linguagem C++ tudo o que a video aula explica mais 1 para implementar.
+4 dias para estudar tudo o que a video aula explica e tentar fazer do metodo que eu compreendia mais 1 para implementar.
+
+*04 - Lista Duplamente encadeada(
+_O que você fez_
+
+Tentei fazer toda atividade
+
+_Com quem e como você fez_
+Ajuda da monitoria, e videos aulas do youtube para entender mais de C++
+
+_O que aprendeu e sabe fazer_
+Aprendi sobre lista duplamente encadeada, mas nao muito.
+Aprendi pouco de C++
+
+_O que tem dificuldade ainda_
+C++
+Lista duplamente encadeada 
+ponteiros
+
+_Quanto tempo levou pra fazer a atividade_
++/- 6h, dividida em 3 dias
 
