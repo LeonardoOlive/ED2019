@@ -98,7 +98,7 @@ void furar(int nlin, int ncol, char matriz[nlin][ncol], int lin, int col){
     Pos vizinhos[] = capturar_vizinhos(lin , col);
     aleatoriar(vizinhos, 4);
     for(int i = 0; i < 4; i++){
-        furar(nlin, ncol, matriz, vizinhos[i].lin, vizinhos[i].col);
+        furar(nlin, ncol, matriz, lin, col);
     }
 
 }
