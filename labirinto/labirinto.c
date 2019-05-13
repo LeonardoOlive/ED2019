@@ -83,7 +83,7 @@ bool podeFurar(int nlin, int ncol, char matriz[nlin][ncol], int lin, int col){
         return false;
     
     for(i = 0; i < 4; i++){
-        if(semelhantes(nlin, ncol, matriz, '#', vizinhos[i].lin, vizinhos[i].col))
+        if(semelhantes(nlin, ncol, matriz, '#', lin, col))
             cont++;
     }
         if(cont < 3)
