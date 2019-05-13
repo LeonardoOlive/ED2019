@@ -37,7 +37,7 @@ void exibir(int nlin, int ncol, char matriz[nlin][ncol]){
         for(auxc = 0; auxc < ncol; auxc++){
             printf("%c", matriz[auxl][auxc]);
         }
-       // printf("\n");
+        printf("\n");
     }
 }
 
