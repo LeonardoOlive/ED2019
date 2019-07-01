@@ -141,7 +141,7 @@ Acho que aprendi um pouco mais sobre iteradores
 
 * Quanto tempo levou pra fazer a atividade<p>
 
- Aproximadamente 2h, haja em vista que levei uma boa parte pensando em como fazer
+ Aproximadamente 4h, haja em vista que levei uma boa parte pensando em como fazer
 ## 7 - Banco
 * O que você fez<p>
 
