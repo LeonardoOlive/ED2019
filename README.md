@@ -125,3 +125,21 @@ Função recursiva ainda é um problema (no caso da afirmação de cima falhar e
 
  1h30m
 
+## 6 - Editor
+
+* O que você fez<p>
+
+ tentei fazer toda a atividade
+
+* Com quem e como você fez<p>
+ 
+  tentei fazer quase tudo sozinho, mas pedi uma ajuda a um amigo para usar o iterador e a stringstream pois ainda não dommino a tecnica para usa-los corretamente
+
+* O que aprendeu e sabe fazer<p>
+
+Acho que aprendi um pouco mais sobre iteradores 
+
+* Quanto tempo levou pra fazer a atividade<p>
+
+ Aproximadamente 2h, haja em vista que levei uma boa parte pensando em como fazer
+## 7 - Banco
