@@ -1,4 +1,12 @@
-~NÃO CONSEGUIR EXPÔR MINHA FOTO~
+##MINHAS INFORMAÇÕES
+
+Nome: Leonardo Bruno de Oliveira Guerreiro
+Curso: Ciência da computação 2018.1
+Turma: Estrutura de Dados 2019.1
+Professor: David Sena
+
+
+##RELATORIO
 
 ## 01 - Princesa
 * O que você fez<p>
