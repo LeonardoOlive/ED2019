@@ -77,7 +77,7 @@ struct Editor
         //Caso o cursor esteja no fim da string: decrementa o cursor a a mesma quantidade de vezes(contador) que se tem caracteres na string a qual ele esta
         //O objetivo é saber quantos caracteres tem de uma posição da string atual do cursor, ate a mesma posição na string de cima
         //so decrementar essa quantidade, contando com o '\n' é claro
-    // Se nao, lascou
+    // Se nao..... ---- pensando o caso contrario
     }
     void down(){
 
