@@ -143,6 +143,22 @@ Acho que aprendi um pouco mais sobre iteradores
 
  Aproximadamente 2h, haja em vista que levei uma boa parte pensando em como fazer
 ## 7 - Banco
+* O que você fez<p>
+
+ Fiz toda a atividade
+
+* Com quem e como você fez<p>
+
+Ja tinha começado a fazer o algoritimo na epoca em que o trabalho foi lançado. Mas como eu nao tinha conseguido concluir no prazo não upei no gitHub. Não conseguir concluir no prazo devido nao ter conseguido fazer a função que ficaria responsavel pelo ti-tac, eu nao estava ssabendo muito bem como funcionava. Mas depois tirei duvidas com o professor e alguns colegas e 
+conseguir fazer.
+
+* O que aprendeu e sabe fazer<p>
+
+Acho que aprendi uma pouco mais de como manipular estruturas - [vector, list, queue]
+
+* Quanto tempo levou pra fazer a atividade<p>
+
+Não me lembro muito bem ao certo mas acredito que deve ter sido 6 dias, 3 horas em cada dia 
 
 
 ## 8 - Arvores Binárias
