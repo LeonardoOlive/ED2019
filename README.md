@@ -143,3 +143,19 @@ Acho que aprendi um pouco mais sobre iteradores
 
  Aproximadamente 2h, haja em vista que levei uma boa parte pensando em como fazer
 ## 7 - Banco
+
+
+## 8 - Arvores Binárias
+* O que você fez<p>
+
+ Fiz toda a atividade com exeção do TopView, o professor tinha feito em sala
+
+* Com quem e como você fez<p>
+ Junto com algumas pesquisas sobre arvores binarias e videos aulas no youtube
+
+* O que aprendeu e sabe fazer<p>
+
+  Acho que aprendi um pouco mais sobre arvores binarias, porem ainda requer pratica
+
+* Quanto tempo levou pra fazer a atividade<p>
+ Cerca de 5H
